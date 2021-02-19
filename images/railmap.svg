@@ -1,0 +1,574 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg height="668.75" viewBox="0,0,9260,6687.5" width="926" xmlns="http://www.w3.org/2000/svg" font-family="DejaVu Sans, sans-serif" font-size="100">
+ <rect fill="#adcfe9" height="100%" width="100%"/>
+ <path d="m-4121.6 1067.2v3730c0 330 270 575 575 575h3425" fill="none" stroke="#b9eefd" stroke-width="200"/>
+ <path d="m-4098.7 2794.8q-8.52 0-15.48-5.16-6.96-5.04-9.84-15.96l-37.08 16.8v-11.4l35.52-15.48v-13.92l-35.52-4.92v-10.32l82.56 11.64v20.76q0 27.96-20.16 27.96zm-18.84-44.04v12.6q0 11.04 5.52 15.72 5.64 4.8 13.32 4.8 6.36 0 9.12-4.2 2.88-4.08 2.88-13.2v-11.4zm-43.56 97.14v-10.32l82.56 11.64v10.2zm0 82.2v-11.16l82.56-14.88v10.8l-71.4 11.04 71.4 31.32v10.8zm74.1 124.2v-32.28l-27.84-3.96v27.96l-8.4-1.08v-27.96l-29.52-4.08v34.2l-8.4-1.2v-44.52l82.56 11.64v43.56zm-11.7 101.9q-8.52 0-15.48-5.16-6.96-5.04-9.84-15.96l-37.08 16.8v-11.4l35.52-15.48v-13.92l-35.52-4.92v-10.32l82.56 11.64v20.76q0 27.96-20.16 27.96zm-18.84-44.04v12.6q0 11.04 5.52 15.72 5.64 4.8 13.32 4.8 6.36 0 9.12-4.2 2.88-4.08 2.88-13.2v-11.4zm-43.56 727.74v-9.96l38.16 2.28q24.12 1.32 33.84 2.4l-62.52-27v-9.96l62.4-10.44q-10.2-1.2-35.04-6.6l-36.84-8.04v-9.84l82.56 18.6v13.2l-60.84 9.84 60.84 25.44v14.64zm74.1 106.4v-32.28l-27.84-3.96v27.96l-8.4-1.08v-27.96l-29.52-4.08v34.2l-8.4-1.2v-44.52l82.56 11.64v43.56zm-11.7 101.9q-8.52 0-15.48-5.16-6.96-5.04-9.84-15.96l-37.08 16.8v-11.4l35.52-15.48v-13.92l-35.52-4.92v-10.32l82.56 11.64v20.76q0 27.96-20.16 27.96zm-18.84-44.04v12.6q0 11.04 5.52 15.72 5.64 4.8 13.32 4.8 6.36 0 9.12-4.2 2.88-4.08 2.88-13.2v-11.4zm40.44 117.74q0 7.8-2.52 13.56-2.4 5.76-7.32 10.44l-6-6.48q3.84-3.84 5.52-8.04 1.68-4.08 1.68-9.24 0-7.44-3.72-12.6-3.72-5.04-10.2-5.04-4.92 0-7.92 3.36t-6 12.36q-3.24 10.32-8.28 15.84-4.92 5.64-14.28 5.64-6 0-12.12-3.12-6-3.12-10.2-10.32-4.08-7.2-4.08-18.48 0-16.68 10.92-26.4l6.24 6.6q-4.2 3.84-6.36 8.64t-2.16 11.28q0 9 4.68 15 4.68 6.12 12.48 6.12 5.64 0 8.76-3.48 3.24-3.36 6.24-12.12 3.36-11.04 8.28-16.32 5.04-5.16 13.44-5.16 5.16 0 10.44 3 5.28 3.12 8.88 9.36 3.6 6.36 3.6 15.6zm-9.9 118.1v-32.28l-27.84-3.96v27.96l-8.4-1.08v-27.96l-29.52-4.08v34.2l-8.4-1.2v-44.52l82.56 11.64v43.56zm-42.2 71.3-31.92-4.44v-10.44l31.8 4.56 50.76-19.2v10.8l-41.52 14.64 41.52 26.28v11.28z" fill="#6e6f6f"/>
+ <path d="m8720.4 4295.3h-128.11m293.71-208.9.54 128.11" fill="none" stroke="#800080" stroke-linecap="square" stroke-width="44.68"/>
+ <path d="m0 0h4906.9l-456.71 466.64h-4450z" fill="#ffd900"/>
+ <g fill="none">
+  <path d="m9.925 3033.1 449.69-3.828 382.61-238.91 148.89-1157.2" stroke="#800080" stroke-width="59.7"/>
+  <path d="m852.11 2339.2-13.193-.599" stroke="#800080" stroke-linecap="square" stroke-width="44.68"/>
+  <g stroke-width="59.7">
+   <path d="m1041.5 1612.5 63.898 536.36 110.84 930.36" stroke="#29d010"/>
+   <path d="m9.165 3475 1025.3 3.253 181.76-399.05 2224.7-4.983" stroke="#6c5353"/>
+  </g>
+ </g>
+ <path d="m1279.4 3056.2v-13.207" fill-rule="evenodd" stroke="#6c5353" stroke-linecap="square" stroke-width="44.68"/>
+ <g fill="none">
+  <g stroke-width="10">
+   <path d="m4712.5 1268 38.476-1.083" stroke="#ff0"/>
+   <path d="m4712.2 1258.8 38.476-1.084" stroke="#107c22"/>
+   <path d="m4711.5 2121.6 38.476-1.083" stroke="#ff0"/>
+   <path d="m4711.2 2112.4 38.476-1.084" stroke="#107c22"/>
+   <path d="m4715.5 2331.7 38.476-1.083" stroke="#ff0"/>
+   <path d="m4715.2 2322.5 38.476-1.084" stroke="#107c22"/>
+   <path d="m4628.6 3129.6 34.142 32.023" stroke="#6d374e"/>
+  </g>
+  <path d="m6272.3 4052.5 13.205-.139m-4.605 189.64 13.205-.139m-23.405 972.44 13.205-.139m515.2 362.64 8.207-10.346m-1152.9-161.85 13.205-.139m-8.905-400.26 13.205-.139m-86.405-665.16 13.205-.139m-15.405-193.66 13.205-.139" stroke="#800080" stroke-linecap="square" stroke-width="44.68"/>
+  <g stroke-width="10">
+   <path d="m3890.2 4260.1 46.809.216" stroke="#6d374e"/>
+   <path d="m5224.1 3303.4-18.507 33.75" stroke="#da0e9c"/>
+  </g>
+ </g>
+ <g fill-rule="evenodd">
+  <path d="m125 5965-38.517 81.708h676.64l38.517-81.708z" fill="#800080"/>
+  <path d="m125 6215.1-38.518 81.708h676.64l38.517-81.708h-676.64z" fill="#29d010"/>
+  <path d="m112.5 6377.3-38.518 81.708h676.64l38.517-81.708h-676.64z" fill="#6c5353"/>
+ </g>
+ <g fill="none" stroke-width="59.7">
+  <path d="m6331.5 5267 752.2 393.33" stroke="#6c5353"/>
+  <path d="m7321.9 5352.8 494.77 285.75-1.748 87.394" stroke="#800080"/>
+  <path d="m6347.1 4815 966.5 533.93 561.12 2.472" stroke="#6c5353"/>
+  <path d="m1624 5682.2 6.992-688.67 230.72-125.85 4381.6 4.099 67.977-58.089" stroke="#800080"/>
+  <g stroke="#6c5353">
+   <path d="m3938.2 5776.6 1131.2 5.331 560.77-305.97-6.992-1870.2"/>
+   <path d="m5489.7 3506 836.09 491.28-6.992 1485.7"/>
+  </g>
+ </g>
+ <g stroke="#800080">
+  <path d="m855.16 4154.1-9.448-9.228" fill-rule="evenodd" stroke-linecap="square" stroke-width="44.68"/>
+  <g fill="none">
+   <path d="m8.478 986.19 1084.1 424.21m-1105 370.5 1080.5-374.03" stroke-width="59.7"/>
+   <g stroke-linecap="square" stroke-width="44.68">
+    <path d="m198.61 1003.5-4.712 12.338"/>
+    <path d="m585.6 1267.1-4.712 12.338"/>
+    <path d="m68.05 1684.4 4.621 12.372"/>
+    <path d="m410.43 1661.5 4.621 12.372"/>
+   </g>
+   <path d="m1089 1556.1 318.28-1.183m411.72 203.78 1469.8 12.526m-2110.7-347.76 2232.2 1210.4" stroke-width="59.7"/>
+  </g>
+ </g>
+ <path d="m1080.4 1554.5a78.181 78.181 0 0 1 -78.181 78.181 78.181 78.181 0 0 1 -78.181-78.181 78.181 78.181 0 0 1 78.181-78.181 78.181 78.181 0 0 1 78.181 78.181z" fill="#fff" stroke="#000" stroke-linecap="square" stroke-width="29.78"/>
+ <g fill="none">
+  <path d="m3420.8 788.15-3.496 1055.7" stroke="#800080" stroke-width="59.7"/>
+  <path d="m2060.9 823.11v251.69l1366.8 779.56-2.449 1220.4" stroke="#6c5353" stroke-width="59.7"/>
+  <g stroke-width="10">
+   <path d="m6601.5 3354.6.11-38.492" stroke="#ffa600"/>
+   <path d="m6591.6 3354.6.11-38.492" stroke="#37c4cf"/>
+   <path d="m7880.7 2721.6-29.055-25.247m95.755-132.25-38.45-1.787" stroke="#ffa600"/>
+  </g>
+  <path d="m6369.3 4770.5v-363.37l279.32-153.26v-266.96l452.35-249.66 14.831-175.5 69.212-37.078 308.98 2.472 1289.2-700.92-3.496-783.47" stroke="#800080" stroke-dasharray="59.7,59.7" stroke-width="59.7"/>
+  <path d="m5507.8 3056.9 129.34-241.21 6.992-2394.6m536.27 3079.7 2197.4 1213.1m-730.5-383.4-2.471 224.94m-161.93-1026.6 41.949 27.966-3.496 674.68m2.347-679.65 1139.5 603.14 1.236 129.77m-.236-131.01 220 1.236" stroke="#800080" stroke-width="59.7"/>
+  <path d="m5232.8 3308.2-18.506 33.751" stroke="#37c4cf" stroke-width="10"/>
+ </g>
+ <path d="m3865.5 3414.4 2.26-331.899 1125.5-.361 1121.4.361-3.196 411.38-2129.4-5.94" fill="#e900ff" fill-rule="evenodd" opacity=".28"/>
+ <g fill="none">
+  <g stroke-width="10">
+   <path d="m4635.4 3122.5 34.142 32.023" stroke="#ff7fb5"/>
+   <path d="m3968.7 3970.2 46.809.216" stroke="#6d374e"/>
+   <path d="m3890.4 4250.2 46.81.216" stroke="#ff7fb5"/>
+   <path d="m4394.5 3313.4 4.216 38.261" stroke="#107c22"/>
+   <path d="m4429.5 3357.1-5.109-46.53" stroke="#001eff"/>
+   <path d="m4420 3358.4-5.108-46.53" stroke="#6d374e"/>
+   <path d="m4409.7 3358.9-5.108-46.53" stroke="#ff7fb5"/>
+   <path d="m4385.1 3314.5 4.214 38.259" stroke="#da0e9c"/>
+   <path d="m4379.9 3353.6-4.667-38.207" stroke="#ffa600"/>
+   <path d="m4370 3354.8-4.667-38.207" stroke="#37c4cf"/>
+  </g>
+  <path d="m3942.9 5765.5-8.49-2085.9 12.407-137.02 121.05-84.683 111.56-55.616 2.284-1.255 250.14-42.022 238.14-204.19 98.536-88.23" stroke="#001eff" stroke-width="20"/>
+  <g stroke-width="10">
+   <path d="m2329 3511.4 23.025-30.845" stroke="#ffa600"/>
+   <path d="m2320.9 3505.4 23.025-30.845" stroke="#37c4cf"/>
+   <path d="m3203.1 3653.9.11-38.492" stroke="#ffa600"/>
+   <path d="m3193.1 3653.9.11-38.492" stroke="#37c4cf"/>
+   <path d="m3600.8 3649.3-.69-38.486" stroke="#ffa600"/>
+   <path d="m3590.9 3649.4-.69-38.486" stroke="#37c4cf"/>
+   <path d="m2694.4 4425.7-32.346-20.863" stroke="#da0e9c"/>
+   <path d="m2689.5 4433.4-32.347-20.862" stroke="#107c22"/>
+   <path d="m2043.2 4728.9-32.346-20.863" stroke="#da0e9c"/>
+   <path d="m2038.3 4736.6-32.347-20.862" stroke="#107c22"/>
+   <path d="m3968.9 3960.4 46.81.216" stroke="#ff7fb5"/>
+   <path d="m3890.2 4269.9 46.81.216" stroke="#001eff"/>
+  </g>
+  <path d="m1573.9 5195.6.246-217.7 2379.7-1284.2 14.593-160.2 254.29-129.2 187.36-25.823 821.93-8.352 107.06 91.814" stroke="#da0e9c" stroke-width="20"/>
+  <g stroke-width="10">
+   <path d="m2479.3 3585.4 23.025-30.845" stroke="#ffa600"/>
+   <path d="m2471.3 3579.5 23.025-30.845" stroke="#37c4cf"/>
+   <path d="m4716.5 2756.4 38.476-1.083" stroke="#ff0"/>
+   <path d="m4716.2 2747.2 38.476-1.084" stroke="#107c22"/>
+   <path d="m4621.9 3136.8 34.142 32.023" stroke="#001eff"/>
+   <path d="m5991.7 3312.4.114-38.491" stroke="#ffa600"/>
+   <path d="m5982.1 3312.2.114-38.491" stroke="#37c4cf"/>
+   <path d="m6355.8 3316.7.11-38.492" stroke="#ffa600"/>
+   <path d="m6345.8 3316.6.11-38.492" stroke="#37c4cf"/>
+   <path d="m7063.6 3163.5-29.055-25.247" stroke="#ffa600"/>
+   <path d="m7057.1 3171.1-29.054-25.247" stroke="#37c4cf"/>
+   <path d="m7386.4 2988-29.055-25.247m375.76-164.75-29.055-25.247" stroke="#ffa600"/>
+   <path d="m7874.2 2729.1-29.054-25.247m101.75-129.75-38.449-1.787" stroke="#37c4cf"/>
+   <path d="m5207.2 3294.1-18.507 33.75" stroke="#ff0"/>
+  </g>
+  <path d="m1494.6 3174h211.49l912.39 482.42 1194.9-13.143 196.81-114.66 223.4-110.28 135.95-19.775 853.52-7.995 101.55 86.016 248.89-28.328 277.23-126.99 944.79 13.953 1163.8-645.09-.57-250.66" stroke="#37c4cf" stroke-width="20"/>
+  <path d="m2183.2 3429.2-85.28 96.712 169.32-51.91" stroke="#37c4cf" stroke-width="20"/>
+  <g stroke-width="10">
+   <path d="m3643.4 3873.6-18.521-33.742" stroke="#da0e9c"/>
+   <path d="m3635.4 3878-18.522-33.742" stroke="#107c22"/>
+   <path d="m3329.9 4089-27.023-27.41" stroke="#da0e9c"/>
+   <path d="m3323.4 4095.4-27.024-27.409" stroke="#107c22"/>
+   <path d="m3020.2 4248.5-32.346-20.863" stroke="#da0e9c"/>
+   <path d="m3015.3 4256.2-32.347-20.862" stroke="#107c22"/>
+   <path d="m2400.3 4587.5-32.346-20.863" stroke="#da0e9c"/>
+   <path d="m2395.4 4595.2-32.347-20.862" stroke="#107c22"/>
+   <path d="m4712.3 1103.1 19.652-33.096" stroke="#ff0"/>
+   <path d="m4704.4 1098.4 19.651-33.097" stroke="#107c22"/>
+   <path d="m4714.5 1483.7 38.476-1.083" stroke="#ff0"/>
+   <path d="m4714.2 1474.5 38.476-1.084" stroke="#107c22"/>
+   <path d="m4710.5 1696.8 38.476-1.083" stroke="#ff0"/>
+   <path d="m4710.2 1687.6 38.476-1.084" stroke="#107c22"/>
+   <path d="m4712.5 1907.9 38.476-1.083" stroke="#ff0"/>
+   <path d="m4712.2 1898.7 38.476-1.084" stroke="#107c22"/>
+   <path d="m4716.5 2543.8 38.476-1.083" stroke="#ff0"/>
+   <path d="m4716.2 2534.6 38.476-1.084" stroke="#107c22"/>
+   <path d="m3968.7 3980 46.81.216" stroke="#001eff"/>
+   <path d="m3967.7 4091.4 46.809.216" stroke="#6d374e"/>
+   <path d="m5012.5 3187.1-18.507 33.75" stroke="#ff0"/>
+   <path d="m5020.5 3191.5-18.506 33.751" stroke="#107c22"/>
+   <path d="m5109.2 3239.1-18.507 33.75" stroke="#ff0"/>
+   <path d="m5117.2 3243.5-18.506 33.751" stroke="#107c22"/>
+   <path d="m4005.6 3681.4 45.094 12.556" stroke="#6d374e"/>
+  </g>
+  <path d="m1586.3 5188.2 2.444-202.64 2385.3-1279.7 16.573-153.35 230.75-116.35 200.5-22.328 734.79-1.578 4.146-83.429-404.85-237.27-11.736-1961.1-298.1-165.67" stroke="#107c22" stroke-width="20"/>
+  <g stroke-width="10">
+   <path d="m7372.2 1635.1 46.808-.449m-48.108 168.65 46.808-.449m-415.51 284.45 36.037 29.875m-175.44 108.52 36.037 29.875m-274.44 97.325 36.037 29.875" stroke="#6d374e"/>
+   <path d="m7229.3 3076.6-29.055-25.247" stroke="#ffa600"/>
+   <path d="m7222.7 3084.2-29.054-25.247m186.15-63.353-29.054-25.247" stroke="#37c4cf"/>
+   <path d="m7557.7 2896.1-29.055-25.247" stroke="#ffa600"/>
+   <path d="m7726.5 2805.6-29.054-25.247" stroke="#37c4cf"/>
+  </g>
+  <path d="m3430.3 3052.5 2794.1 4.398 1317.9-702.65 1195.1-11.179 7.416-803.36" stroke="#6c5353" stroke-width="59.7"/>
+  <g stroke-width="10">
+   <path d="m2635 3709 .34-38.49" stroke="#ffa600"/>
+   <path d="m2625 3708.9.34-38.49" stroke="#37c4cf"/>
+   <path d="m5215.7 3298.8-18.506 33.751" stroke="#ffa600"/>
+  </g>
+  <path d="m5350.5 3460.2-91.612-88.47-102.63-68.835-361.45-210.87-14.11-12.429-18.024-1960.1-304.04-170.56" stroke="#ff0" stroke-width="20"/>
+  <g stroke-width="10">
+   <path d="m6394.1 2471.1 36.037 29.875m-237.04 84.325 36.037 29.875m-277.54 111.82 36.037 29.875m-916.94 12.625 1.25 46.794" stroke="#6d374e"/>
+   <path d="m6940.3 3276.6-29.055-25.247" stroke="#ffa600"/>
+   <path d="m6933.7 3284.2-29.054-25.247m646.45-355.25-29.054-25.247" stroke="#37c4cf"/>
+   <path d="m4008.3 3671.9 45.094 12.556" stroke="#ff7fb5"/>
+   <path d="m3859.3 3515.1 21.918 31.643" stroke="#107c22"/>
+   <path d="m3910.9 3536.8-26.638-38.491" stroke="#001eff"/>
+   <path d="m3903.1 3542.5-26.637-38.491" stroke="#6d374e"/>
+   <path d="m3894.3 3547.9-26.637-38.491" stroke="#ff7fb5"/>
+   <path d="m3851.5 3520.5 21.915 31.642" stroke="#da0e9c"/>
+   <path d="m3865.6 3557.4-22.288-31.381" stroke="#ffa600"/>
+   <path d="m3857.4 3563.1-22.288-31.381" stroke="#37c4cf"/>
+  </g>
+  <path d="m7950 2452.3-1.174 231.92-1156.8 630.33-941.78-4.944-283.25 118.81-212.18 27.034-85.631-104.33-963.97-2.287-114.06 29.878-229.43 103.93-223.62 177.3-1124.3 15.147-350.51-184.29-190.38 63.009" stroke="#ffa600" stroke-width="20"/>
+  <g stroke-width="10">
+   <path d="m7374.2 1460.1 46.808-.449" stroke="#6d374e"/>
+   <path d="m7372.2 1625.2 46.808-.449m-48.108 168.649 46.808-.449" stroke="#ff7fb5"/>
+   <path d="m7221.1 1965.5 36.037 29.875" stroke="#6d374e"/>
+   <path d="m7008.6 2079.7 36.037 29.875m-175.44 108.52 36.037 29.875m-274.44 97.425 36.037 29.875m-266.44 88.325 36.037 29.875m-237.04 84.325 36.037 29.875m-277.44 111.82 36.037 29.875" stroke="#ff7fb5"/>
+   <path d="m5460.7 2767.3 1.25 46.794" stroke="#6d374e"/>
+   <path d="m5080.5 2769.3 1.25 46.794" stroke="#ff7fb5"/>
+   <path d="m5298 4541.6.83 46.803m-987.23-302.903.83 46.803m314.87 66.697-39.182 25.612m224.082 84.988-39.182 25.612" stroke="#6d374e"/>
+   <path d="m3967.9 4081.6 46.81.216" stroke="#ff7fb5"/>
+   <path d="m4002.9 3690.8 45.094 12.556" stroke="#001eff"/>
+   <path d="m4058.8 3665.6-37.084-10.311" stroke="#da0e9c"/>
+   <path d="m4056.2 3674.8-37.086-10.31" stroke="#107c22"/>
+  </g>
+  <path d="m5717.3 4597.4-747.52-.26-479.04-259.31h-464.71l-70.049-55.139-.85-550.12 37.891-20.879 15.868-141.97 197.59-115.58 189.1-37.078 364.6-317.64-2.227-212.11 43.697-66.42 949.75-8.206 1668.6-912.93 3.417-612.73-1.669-292.67-263.93-138.08-2042.9-3.787-206.4-110" stroke="#ff7fb5" stroke-width="20"/>
+  <path d="m7227.5 1958 36.037 29.875m-1793 779.32 1.25 46.794m-163.85 1727.5.84 46.803m-987.34-302.9.84 46.803m310.36 75.097-39.176 25.621m224.08 84.979-39.176 25.621" stroke="#ff7fb5" stroke-width="10"/>
+  <path d="m3967.7 4101.2 46.81.216" stroke="#001eff" stroke-width="10"/>
+  <path d="m5732.1 4578-759.2-2.302-478.02-259.48-459.65 4.437-60.098-49.049 1.081-528.32 30.521-19.331 20.174-139.82 194.36-122.58 189.1-37.078 364.6-317.64-2.227-212.11 43.697-66.42 949.75-8.206 1674.6-908.38 4.427-619.8" stroke="#6d374e" stroke-width="20"/>
+  <path d="m5782.7 3544.2v-13.207m342.7-66.193v-13.207m385.9 83.407v-13.207m397 25.307v-13.207m375.1-74.293v-13.207" stroke="#800080" stroke-linecap="square" stroke-width="44.68"/>
+  <path d="m8737.4 2353 2.472 457.3-1260.7 684.71-3465.6 9.888-580.89-301.57-.6-121.23" stroke="#6c5353" stroke-width="59.7"/>
+ </g>
+ <circle cx="2612.6" cy="5781.3" fill="#6e6f6f" r="63.4"/>
+ <path d="m2617.4 5761.3c0-9.087-.382-15.64-1.146-19.662-.724-4.021-1.93-6.031-3.619-6.032-1.729 0-2.976 1.95-3.74 5.851-.724 3.9-1.086 10.52-1.086 19.844l-12.123 9.048v-1.387c0-1.327-.201-2.332-.603-3.016s-.985-1.025-1.749-1.025-1.347.342-1.749 1.025c-.402.684-.603 1.689-.603 3.016v4.825l-7.901 5.79v-1.327c0-1.327-.201-2.332-.603-3.016-.402-.724-.985-1.086-1.749-1.086s-1.347.362-1.749 1.086c-.402.684-.603 1.689-.603 3.016v4.825c-3.9 2.252-6.655 4.443-8.263 6.574-1.568 2.091-2.352 4.544-2.352 7.359v1.267c8.926-4.303 16.77-7.72 23.523-10.254 6.755-2.573 11.18-3.86 13.269-3.86 2.212 0 3.518 3.72 3.92 11.158.322 5.951.764 11.04 1.327 15.26-.603.804-1.91 1.97-3.92 3.498-1.97 1.528-4.745 3.498-8.324 5.911a41.488 41.488 0 0 0 -.723 3.378 80.592 80.592 0 0 0 -.543 3.498c2.855-1.166 5.509-2.131 7.962-2.895 2.493-.804 4.865-1.427 7.117-1.87.08.563.221 1.166.422 1.81.201.643.483 1.307.845 1.99.241-.523.462-1.086.663-1.689.201-.643.382-1.347.543-2.111 2.332.482 4.745 1.126 7.238 1.93 2.533.804 5.147 1.769 7.841 2.895-.242-1.89-.624-4.081-1.146-6.574-.04-.161-.08-.281-.12-.362-3.619-2.413-6.434-4.383-8.444-5.911-1.97-1.528-3.217-2.674-3.74-3.438.442-3.981.824-8.846 1.146-14.596.442-7.921 1.789-11.88 4.041-11.882 2.051 0 6.414 1.266 13.088 3.8 6.675 2.533 14.58 5.971 23.704 10.314v-1.267c0-2.815-.804-5.267-2.413-7.358-1.568-2.131-4.303-4.322-8.203-6.574v-4.825c0-1.327-.201-2.332-.603-3.016-.402-.724-.985-1.086-1.749-1.086s-1.347.362-1.749 1.086c-.402.684-.603 1.689-.603 3.016v1.327l-7.901-5.79v-4.825c0-1.327-.201-2.332-.603-3.016s-.985-1.025-1.749-1.025-1.347.342-1.749 1.025c-.402.684-.603 1.689-.603 3.016v1.387l-12.123-9.047" fill="#fff"/>
+ <g stroke-linecap="square">
+  <path d="m1573 3109.4a78.181 78.181 0 0 1 -78.181 78.181 78.181 78.181 0 0 1 -78.181-78.181 78.181 78.181 0 0 1 78.181-78.181 78.181 78.181 0 0 1 78.181 78.181z" fill="#fff" stroke="#000" stroke-width="29.78"/>
+  <g fill="none">
+   <g stroke-width="44.68">
+    <path d="m2192.8 1110.7 7.835-10.631m309.67 291.63 7.835-10.631m510.67 199.53 7.835-10.631" stroke="#6c5353"/>
+    <path d="m3379.7 1184.6 13.205.05m52.495 284.25 13.205-.139" stroke="#800080"/>
+    <path d="m3465.2 1886.1 13.205-.139m-20.005 149.339 13.205-.139m-10.105 152.339 13.205-.139m-14.105 160.039 13.205-.139m-13.205 160.139 13.205-.139m-90.705 305.839 13.205-.139" stroke="#6c5353"/>
+    <path d="m1543.6 1577.4 7.835-10.631m260.07 155.23 7.835-10.631m148.97 197.93 7.835-10.631m261.47 57.331 7.835-10.631m146.77 188.73 7.835-10.631m282.77 73.031 7.835-10.631m170.26 199.43 7.835-10.631m221.06 133.93 5.987-11.771m2494.5-2021.6 13.205.05m-13.205 139.95 13.205.05m-13.205 539.95 13.205.05m-13.205 339.95 13.205.05m-13.205 479.95 13.205.05m1953.4 1874.4 13.205.05m-46.058-138.85 46.058.05m-16.4 290.55 13.205.05m-1217.7-347.55 8.207-10.346m158.49 95.546 8.207-10.346m707.29 413.85 8.207-10.346m463.79 168.65 8.207-10.346m355.59 208.25 8.207-10.346m240.99 141.15 8.207-10.346m-609.01-53.054h-128.11m-922.89-526.7 13.205.05m335.4-307.65 13.205.05" stroke="#800080"/>
+    <path d="m8693.9 2063.5 13.205.05" stroke="#6c5353"/>
+   </g>
+   <path d="m6356.8 4784.5 49.722.02" stroke="#6c5353" stroke-width="44.71"/>
+  </g>
+  <g fill="#fff" stroke="#000">
+   <path d="m4009.1 5763.1a78.181 78.181 0 0 1 -78.181 78.181 78.181 78.181 0 0 1 -78.181-78.181 78.181 78.181 0 0 1 78.181-78.181 78.181 78.181 0 0 1 78.181 78.181z" stroke-width="29.78"/>
+   <path d="m5705.5 4688.1a41.237 39.622 0 0 1 -41.237 39.622 41.237 39.622 0 0 1 -41.236-39.622 41.237 39.622 0 0 1 41.236-39.622 41.237 39.622 0 0 1 41.237 39.622zm90.4-95.8a41.237 39.622 0 0 1 -41.237 39.622 41.237 39.622 0 0 1 -41.236-39.622 41.237 39.622 0 0 1 41.236-39.622 41.237 39.622 0 0 1 41.237 39.622z" stroke-width="15.4"/>
+  </g>
+ </g>
+ <path d="m5725.3 4632.7-36.601 35.525" fill="none" stroke="#000" stroke-dasharray="10,10" stroke-width="10"/>
+ <path d="m1640.6 5217.8a41.237 39.622 0 0 1 -41.237 39.622 41.237 39.622 0 0 1 -41.236-39.622 41.237 39.622 0 0 1 41.236-39.622 41.237 39.622 0 0 1 41.237 39.622zm3918.7-4357a41.237 39.622 0 0 1 -41.237 39.622 41.237 39.622 0 0 1 -41.236-39.622 41.237 39.622 0 0 1 41.236-39.622 41.237 39.622 0 0 1 41.237 39.622zm133.5-20.46a41.237 39.622 0 0 1 -41.237 39.622 41.237 39.622 0 0 1 -41.236-39.622 41.237 39.622 0 0 1 41.236-39.622 41.237 39.622 0 0 1 41.237 39.622z" fill="#fff" stroke="#000" stroke-linecap="square" stroke-width="15.4"/>
+ <g fill="none">
+  <path d="m5606.6 844.71-45.215 23.604" stroke="#000" stroke-dasharray="10,10" stroke-width="10"/>
+  <g stroke-linecap="square" stroke-width="44.68">
+   <path d="m3718.9 3027.4v-13.207" stroke="#6c5353"/>
+   <path d="m1119.8 4137v-13.207m366 115.81v-13.207m402.7-78.693v-13.207m359.3 104.81v-13.207m387.4-174.69-9.286-9.391" stroke="#800080"/>
+  </g>
+ </g>
+ <path d="m4326.7 3465.5a39.622 41.237.019 0 1 39.608 41.25 39.622 41.237.019 0 1 -39.635 41.223 39.622 41.237.019 0 1 -39.609-41.249 39.622 41.237.019 0 1 39.636-41.224zm-95.8-90.5a39.622 41.237.019 0 1 39.609 41.25 39.622 41.237.019 0 1 -39.636 41.223 39.622 41.237.019 0 1 -39.608-41.249 39.622 41.237.019 0 1 39.635-41.224z" fill="#fff" stroke="#000" stroke-linecap="square" stroke-width="15.4"/>
+ <path d="m4271.2 3445.6 35.513 36.612" fill="none" stroke="#000" stroke-dasharray="10,10" stroke-width="10"/>
+ <g stroke-linecap="square">
+  <path d="m4771.2 3010.3a39.622 41.237.019 0 1 39.608 41.25 39.622 41.237.019 0 1 -39.635 41.223 39.622 41.237.019 0 1 -39.609-41.249 39.622 41.237.019 0 1 39.636-41.224zm-3013.3 1916.8a41.237 39.622 0 0 1 -41.237 39.622 41.237 39.622 0 0 1 -41.236-39.622 41.237 39.622 0 0 1 41.236-39.622 41.237 39.622 0 0 1 41.237 39.622z" fill="#fff" stroke="#000" stroke-width="15.4"/>
+  <path d="m6872.2 5065.3 8.207-10.346m355.59 208.25 8.207-10.346m-560.81-303.35 8.207-10.346" fill="none" stroke="#6c5353" stroke-width="44.68"/>
+  <path d="m7698.8 5515.9 8.207-10.346" fill="none" stroke="#800080" stroke-width="44.68"/>
+  <path d="m5404.2 3489.5a78.181 78.181 0 0 1 -78.181 78.181 78.181 78.181 0 0 1 -78.181-78.181 78.181 78.181 0 0 1 78.181-78.181 78.181 78.181 0 0 1 78.181 78.181z" fill="#fff" stroke="#000" stroke-width="29.78"/>
+  <path d="m8693.9 1863.5 13.205.05m-13.205-260.05 13.205.05" fill="none" stroke="#800080" stroke-width="44.68"/>
+  <path d="m7985.1 2429.1a39.622 41.237 45.042 0 1 -1.185 57.175 39.622 41.237 45.042 0 1 -57.175 1.1 39.622 41.237 45.042 0 1 1.182-57.175 39.622 41.237 45.042 0 1 57.178-1.1zm-2.2-115.8a39.622 41.237 45.042 0 1 -1.183 57.175 39.622 41.237 45.042 0 1 -57.177 1.099 39.622 41.237 45.042 0 1 1.184-57.174 39.622 41.237 45.042 0 1 57.176-1.101z" fill="#fff" stroke="#000" stroke-width="15.4"/>
+ </g>
+ <g fill="none">
+  <path d="m7955.4 2374.8-.8 51" stroke="#000" stroke-dasharray="10,10" stroke-width="10"/>
+  <path d="m1587.8 5485.2 13.205-.139" stroke="#800080" stroke-linecap="square" stroke-width="44.68"/>
+  <path d="m1765.2 3203.1 29.954-31.205m84.046 90.605-27.6 24.374m160.6 48.626 29.173-25.11m88.527 85.71-24.352 24.294" stroke="#37c4cf" stroke-width="10"/>
+  <path d="m4709.9 3542.6v-13.207" stroke="#6c5353" stroke-linecap="square" stroke-width="44.68"/>
+  <path d="m7.383 4753.1 189.35-.552 702.32-573.59 1569.7 1.834 888.16-433.37 343.62-48.519 304.14-186.62" stroke="#6c5353" stroke-width="59.7"/>
+  <path d="m3888.8 4519.8h49.497m-48.497-94.9h45.456m5.044 208.1h49.497m-106.1 69.7h49.497m4.103 91.9h49.497m-47.497 147.5h49.497m-95.997 92.9h49.497m-4.997 91.9h49.497m-93.997 89.9h49.497m-4.997 92h49.497m-92.997 92.9h49.497m-4.997 90.9h49.497m-95.997 91.9h49.497m6.103 55.6h49.497" stroke="#001eff" stroke-width="10"/>
+  <g stroke-width="16">
+   <path d="m4430.3 981.31 34.168-56.404" stroke="#ff0"/>
+   <path d="m4417.2 973.3 34.168-56.406" stroke="#107c22"/>
+   <path d="m4888 766.09 34.168-56.406" stroke="#ff7fb5"/>
+  </g>
+  <path d="m6205 862.53-1.12-46.795m599.52 48.045-1.12-46.795m532.72 138.64 38.618-26.452m2.782 193.82 46.78-1.66m-37.88 166.26 46.808-.449" stroke="#ff7fb5" stroke-width="10"/>
+  <path d="m7385.5 1302.5 122.49-1.153" stroke="#6d374e" stroke-width="20"/>
+  <path d="m7374.2 1450.2 46.808-.449m-193.51 508.25 36.037 29.875" stroke="#ff7fb5" stroke-width="10"/>
+ </g>
+ <path d="m3475.7 3404.7h389.06v94.84h-389.06z" fill="#adcfe9" stroke="#be95ef" stroke-linecap="round" stroke-linejoin="round" stroke-width="20"/>
+ <g fill="none" stroke="#800080" stroke-linecap="square" stroke-width="44.68">
+  <path d="m2497.9 1725.4v-13.207"/>
+  <path d="m7628.1 3568.2 8.148-10.394m168.15 102.19 8.148-10.394m183.65 104.99 8.148-10.394m173.05 107.59 8.148-10.394m186.85 112.89 8.148-10.394m176.85 110.39 8.148-10.394"/>
+  <path d="m7033.6 3939.3 8.148-10.394"/>
+ </g>
+ <g fill-rule="evenodd">
+  <path d="m4021.1 6144.5-28.727 50.246h504.65l28.727-50.246z" fill="#001eff"/>
+  <path d="m1768.3 6170.6-28.727 50.246h504.65l28.727-50.246z" fill="#da0e9c"/>
+  <path d="m1768.3 6081.5-28.727 50.246h504.65l28.727-50.246z" fill="#107c22"/>
+  <path d="m1758 6270.5-28.727 50.246h504.65l28.727-50.246z" fill="#37c4cf"/>
+  <path d="m4003.3 6253.5-28.727 50.246h504.65l28.727-50.246z" fill="#ffa600"/>
+  <path d="m4032.1 6042.3-28.727 50.246h504.65l28.727-50.246z" fill="#ff7fb5"/>
+  <path d="m1748.3 6370.6-28.727 50.246h504.65l28.727-50.246z" fill="#ff0"/>
+  <path d="m4004.1 6351.5-28.727 50.246h504.65l28.727-50.246z" fill="#6d374e"/>
+ </g>
+ <g fill="none">
+  <path d="m2968.8 6517.3 509.21 2.472" stroke="#f00" stroke-dasharray="40,80" stroke-width="40"/>
+  <path d="m213.45 6127.8 509.21 2.472" stroke="#800080" stroke-dasharray="59.7,119.4" stroke-width="59.7"/>
+  <g stroke="#f00">
+   <path d="m3203.5 3670.5-1.024 112.34-1234.82.936-76.907 90.89h-131.32v84.742l-435.64.567" stroke-dasharray="20,40" stroke-width="20"/>
+   <g stroke-width="10">
+    <path d="m3064.8 3790.6.11-38.492"/>
+    <path d="m2705.1 3815.4.11-38.492"/>
+    <path d="m2024.5 3818.9.11-38.492"/>
+    <path d="m1967.7 3785.2-30.886-22.971"/>
+    <path d="m1671.5 3964.1.11-38.492"/>
+    <path d="m1330.1 3959.4-38.484.77"/>
+   </g>
+  </g>
+ </g>
+ <path d="m1181.8 1386.7a78.181 78.181 0 0 1 -78.181 78.181 78.181 78.181 0 0 1 -78.181-78.181 78.181 78.181 0 0 1 78.181-78.181 78.181 78.181 0 0 1 78.181 78.181z" fill="#fff" stroke="#000" stroke-linecap="square" stroke-width="29.78"/>
+ <path d="m1064.1 1487.4 11.388-16.45m-36.728 2.85 11.388-16.45" fill="none" stroke="#000" stroke-width="10"/>
+ <path d="m1543.6 1577.4 7.835-10.631m260.07 155.23 7.835-10.631m148.97 197.93 7.835-10.631m261.47 57.331 7.835-10.631m146.77 188.73 7.835-10.631m282.77 73.031 7.835-10.631m170.26 199.43 7.835-10.631m221.06 133.93 5.987-11.771m2494.5-2021.6 13.205.05m-13.205 139.95 13.205.05m-13.205 539.95 13.205.05m-13.205 339.95 13.205.05m-13.205 479.95 13.205.05m1953.4 1874.4 13.205.05m-46.058-138.85 46.058.05m-16.4 290.55 13.205.05m-1217.7-347.55 8.207-10.346m313.014 185.427 8.207-10.346m552.766 323.969 8.207-10.346m463.79 168.65 8.207-10.346m355.59 208.25 8.207-10.346m240.99 141.15 8.207-10.346m-609.01-53.054h-128.11m-922.89-526.7 13.205.05m335.4-307.65 13.205.05" fill="none" stroke="#800080" stroke-linecap="square" stroke-width="44.68"/>
+ <g fill="#adcfe9">
+  <path d="m6947 3701.1h268.41v55.26h-268.41z" opacity=".5"/>
+  <path d="m5603.2 3552.7h293.83v56.57h-293.83z" opacity=".5"/>
+  <path d="m2261.6 3647.5h516.26v75.27h-516.26z" opacity=".5"/>
+  <path d="m6388.7 3809h524.79v57.81h-524.79z" opacity=".5" transform="matrix(.70711 -.70711 .70711 .70711 -784.17 5841.5)"/>
+ </g>
+ <g font-weight="bold">
+  <text font-size="200" x="61" y="294.3">Greater Manchester Railways</text>
+  <text font-size="175" x="115.9" y="5853.3">TfGM</text>
+  <text font-size="100" x="1911.6" y="6012.9">Metrolink lines</text>
+  <text fill="#fff" font-family="Liberation Mono" font-size="75" font-style="italic" text-anchor="end" transform="scale(1.0174 .9829)" x="6008.44" y="3188.74">ZONE 1</text>
+ </g>
+ <g font-style="italic">
+  <text fill="#f00" font-size="100" x="762.4" y="3859">under construction</text>
+  <text fill="#fff" font-family="Liberation Mono" font-size="75" font-weight="bold" transform="scale(1.0174 .9829)" x="3805.24" y="3190.56">CTLZ</text>
+ </g>
+ <path d="m1064.1 1487.4 11.388-16.45m-36.728 2.85 11.388-16.45" fill="none" stroke="#000" stroke-width="10">
+  <text fill="#000" font-size="75" text-anchor="end" x="7266.73" y="3764.73">Denton</text>
+ </path>
+ <g fill="#000">
+  <g font-size="100">
+   <text x="574.8" y="2359.3">Bryn</text>
+   <text text-anchor="middle" x="1249.94" y="1680.35">Wigan <tspan x="1249.94" y="1805.35">North</tspan><tspan x="1249.94" y="1930.35">Western</tspan></text>
+   <text x="855.6" y="6026.1">Northern Rail</text>
+   <text x="855.6" y="6286.1">Other operators</text>
+   <text x="854" y="6424.6">Northern Rail<tspan x="854" y="6549.6">and others</tspan></text>
+   <text text-anchor="middle" x="652.2" y="4141.2">Irlam</text>
+   <text text-anchor="middle" x="1434.5" y="1287.5">Wigan<tspan x="1434.5" y="1412.5">Wallgate</tspan></text>
+   <text x="199.2" y="964">Appley Bridge</text>
+   <text text-anchor="middle" x="544" y="1405.8">Gathurst</text>
+   <text x="26.9" y="1630.3">Orrell</text>
+   <text x="273.6" y="1796.6">Pemberton</text>
+   <text x="1315.8" y="3278.7">Eccles</text>
+   <text text-anchor="middle" x="1418.6" y="5514.8">Hale</text>
+   <text font-family="DejaVu Sans,sans-serif" text-anchor="end" x="1541.3" y="5256.7">Altrincham</text>
+   <g text-anchor="middle">
+    <text x="2099.2" y="5044.6">Navigation Rd</text>
+    <text x="1643.1" y="4714">Timperley</text>
+    <text x="2647.2" y="4675.1">Brooklands</text>
+    <text x="2805.1" y="4492.9">Sale</text>
+    <text transform="matrix(.87674 -.48097 .48097 .87674 0 0)" x="620.27" y="5246.61">Dane Rd</text>
+    <text x="3532" y="4169">Stretford</text>
+   </g>
+  </g>
+  <g font-size="75">
+   <g text-anchor="middle">
+    <text transform="matrix(.8979 -.44019 .44019 .8979 0 0)" x="1401.75" y="4970.97">Old<tspan x="1401.75" y="5049.07">Trafford</tspan></text>
+    <text transform="matrix(.86603 .5 -.5 .86603 0 0)" x="5600" y="1210.95">Trafford Bar</text>
+    <text x="4200" y="4004.2">Firswood</text>
+    <text x="4192.1" y="4133.3">Chorlton</text>
+    <text x="4336.9" y="4272.5">Withington</text>
+   </g>
+   <g text-anchor="end">
+    <text x="3872.4" y="4267.5">St Werburgh's<tspan x="3872.4" y="4330">Rd</tspan></text>
+    <text x="3857.4" y="4397.5">Barlow Moor<tspan x="3857.4" y="4460">Rd</tspan></text>
+    <text x="3866.6" y="4533.1">Sale Water Park</text>
+   </g>
+   <text x="4000" y="4647.5">Northern Moor</text>
+   <text text-anchor="end" x="3866.4" y="4720.2">Wythenshawe Park</text>
+   <text x="4000" y="4813.7">Moor Rd</text>
+   <text x="4000" y="4963.7">Baguley</text>
+   <text text-anchor="end" x="3869.9" y="5047.5">Roundthorn</text>
+   <text x="4000" y="5146.2">Martinscroft</text>
+   <text text-anchor="end" x="3882.4" y="5235">Benchill</text>
+   <text x="4000" y="5326.2">Crossacres</text>
+   <text text-anchor="end" x="3888.6" y="5393.7">Wythenshawe<tspan x="3888.6" y="5456.2">Town Centre</tspan></text>
+   <text x="4000" y="5496.2">Robinswood Rd</text>
+   <text text-anchor="end" x="3866.1" y="5601.2">Peel Hall</text>
+   <text x="4000" y="5652.5">Shadowmoss</text>
+  </g>
+  <text font-size="100" font-weight="bold" text-anchor="middle" x="3258.8" y="5815.3">Manchester Airport</text>
+  <g font-size="75">
+   <g text-anchor="end">
+    <text x="2026.1" y="3167.9">Ladywell</text>
+    <text x="1834.9" y="3321">Weaste</text>
+    <text x="2364.9" y="3306.7">Langworthy</text>
+    <text x="2065.5" y="3457.9">Broadway</text>
+    <text x="2024.3" y="3576.7">MediaCityUK</text>
+   </g>
+   <text transform="matrix(.70711 -.70711 .70711 .70711 0 0)" x="-776.16" y="4100.06">Harbour<tspan x="-776.16" y="4162.56">City</tspan></text>
+   <g text-anchor="end">
+    <text transform="matrix(.70711 -.70711 .70711 .70711 0 0)" x="-343.01" y="4301.99">Anchorage</text>
+    <text x="3361.5" y="3595.1">Exchange Quay</text>
+    <text x="3704" y="3597">Pomona</text>
+   </g>
+   <text text-anchor="middle" x="3668.27" y="3473.38">Cornbrook</text>
+   <text transform="matrix(.86603 .5 -.5 .86603 0 0)" x="5491.03" y="993.2">Deansgate-Castlefield<tspan x="5491.03" y="1071.3">Deansgate</tspan></text>
+   <text x="4563.92" y="3633.61">Oxford Rd</text>
+   <text font-weight="bold" text-anchor="middle" x="5276.1" y="3657.2">Piccadilly</text>
+   <text transform="scale(.97334 1.0274)" x="5375.93" y="3220.72">Piccadilly Gdns</text>
+   <text transform="scale(.98426 1.016)" x="5201.55" y="3189.13">Market St</text>
+   <text transform="scale(.97264 1.0281)" x="5163.47" y="3089.12">Shudehill</text>
+   <text text-anchor="end" transform="scale(.97541 1.0252)" x="4737.3" y="3068.02">Exchange Sq</text>
+   <text text-anchor="end" transform="scale(.9285 1.077)" x="4805.31" y="3060.63">St Peter's Sq</text>
+   <text font-weight="bold" text-anchor="middle" x="5019.8" y="3008.4">Victoria</text>
+  </g>
+  <text font-size="100" font-weight="bold" text-anchor="middle" x="6713.8" y="4815.3">Stockport</text>
+  <text font-size="75" text-anchor="end" x="6181.5" y="3245.7">New Islington</text>
+  <g font-size="100">
+   <text text-anchor="middle" x="1685.7" y="1568">Ince</text>
+   <text text-anchor="middle" x="2029.4" y="1691.7">Hindley</text>
+   <text font-family="DejaVu Sans,sans-serif" text-anchor="end" x="1943.2" y="1988">Daisy Hill</text>
+   <g text-anchor="middle">
+    <text x="2476.9" y="1910.5">Hag Fold</text>
+    <text x="2144.4" y="2226.7">Atherton</text>
+    <text x="2921.9" y="2163">Walkden</text>
+    <text x="2601.9" y="2471.7">Moorside</text>
+    <text x="2875.7" y="2596.7">Swinton</text>
+   </g>
+  </g>
+  <g font-size="75">
+   <text text-anchor="end" x="4568.6" y="4473.7">Burton Rd</text>
+   <text text-anchor="end" x="4767.03" y="4579.06">W Didsbury</text>
+   <text text-anchor="middle" x="5271.63" y="4515.9">Didsbury Village</text>
+  </g>
+  <g font-size="100">
+   <text x="5803.3" y="4654.6">E<tspan x="5803.3" y="4779.6">Didsbury</tspan></text>
+   <text font-family="DejaVu Sans,sans-serif" text-anchor="end" x="3359.1" y="2801.8">Salford<tspan x="3359.1" y="2926.8">Crescent</tspan></text>
+   <g text-anchor="middle">
+    <text x="3734.8" y="2819.5">Salford<tspan x="3734.8" y="2944.5">Ctrl</tspan></text>
+    <text x="3677.3" y="2547">Clifton</text>
+    <text x="3714.4" y="2387.9">Kearsley</text>
+    <text x="3751.4" y="2225.2">Famworth</text>
+    <text x="3791.4" y="2065.2">Moses Gate</text>
+    <text font-weight="bold" x="3726" y="1908.8">Bolton</text>
+   </g>
+   <text x="3488.9" y="1432.7">Hall i' th'<tspan x="3488.9" y="1557.7">Wood</tspan></text>
+   <g text-anchor="end">
+    <text x="3340" y="1152.7">Bromley<tspan x="3340" y="1277.7">Cross</tspan></text>
+    <text x="3310" y="1515.1">Lostock</text>
+    <text x="2801.3" y="1618.3">Westhoughton</text>
+    <text x="2468.5" y="1440.9">Horwich Pkwy</text>
+    <text x="2657.6" y="1074.9">Blackrod</text>
+   </g>
+   <text x="5696.6" y="5396.3">Heald<tspan x="5696.6" y="5521.3">Green</tspan></text>
+   <text x="5696.6" y="5036.3">Gatley</text>
+  </g>
+  <g text-anchor="end">
+   <text font-size="75" x="6237.3" y="5175.9">Cheadle<tspan x="6237.3" y="5269.6">Hume</tspan></text>
+   <g font-family="DejaVu Sans,sans-serif" font-size="100">
+    <text x="5550" y="4355.7">Burnage</text>
+    <text x="5550" y="4173.7">Mauldeth Rd</text>
+   </g>
+  </g>
+  <text font-size="75" x="5729.7" y="4081.2">Levenshulme</text>
+  <text font-size="75" x="5972.2" y="4211.2">Heaton<tspan x="5972.2" y="4304.9">Chapel</tspan></text>
+  <g font-size="100">
+   <g text-anchor="middle">
+    <text x="4381.8" y="2766.4">Queens Rd</text>
+    <text x="4328.8" y="2564.9">Abraham Moss</text>
+    <text x="4433.1" y="2356.3">Crumpsall</text>
+    <text x="4396" y="2140.6">Bowker Vale</text>
+    <text x="4381.8" y="1917.9">Heaton Park</text>
+   </g>
+   <text font-family="DejaVu Sans, sans-serif" text-anchor="end" x="4670.7" y="1712.8">Prestwich</text>
+   <g text-anchor="middle">
+    <text x="4381.8" y="1468.9">Besses o' th'<tspan x="4381.8" y="1593.9">Barn</tspan></text>
+    <text x="4431.3" y="1283.3">Whitefield</text>
+    <text x="5004.1" y="1067.6">Radcliffe</text>
+    <text x="4288.1" y="965.1">Bury</text>
+   </g>
+   <g font-family="DejaVu Sans, sans-serif">
+    <g text-anchor="end">
+     <text x="5538.59" y="2004">Moston</text>
+     <text x="5530" y="1526.7">Mills Hill</text>
+     <text x="5530" y="1176.7">Castleton</text>
+     <text x="5532.98" y="621.6">Smithy<tspan x="5532.98" y="746.6">Bridge</tspan></text>
+     <text x="5530" y="490.8">Littleborough</text>
+    </g>
+    <text x="5687.5" y="952.2">Rochdale<tspan font-size="75" x="5687.5" y="1027.4">Railway Stn</tspan></text>
+   </g>
+   <g text-anchor="middle">
+    <text x="6223.4" y="794.2">Newbold</text>
+    <text x="4656.9" y="680.8">Rochdale<tspan x="4656.9" y="805.8">Town Ctr</tspan></text>
+    <text x="6833.3" y="664.1">Kingsway<tspan x="6833.3" y="789.1">Business Pk</tspan></text>
+    <text x="7570.9" y="934.2">Milnrow</text>
+    <text x="7162.2" y="1136.7">Newhey</text>
+    <text x="7146.8" y="1249.2">Shaw and<tspan x="7130.9" y="1374.2">Crompton</tspan></text>
+    <text x="7182.2" y="1485.4">Derker</text>
+   </g>
+   <g text-anchor="end">
+    <text font-family="DejaVu Sans,sans-serif" x="7370.6" y="1635.7">Oldham Mumps</text>
+    <text x="7376.1" y="1758.2">Oldham<tspan x="7376.1" y="1883.2">Ctrl</tspan></text>
+    <text font-family="DejaVu Sans,sans-serif" x="7206.1" y="1959.4">Oldham King St</text>
+    <text x="6978.1" y="2074.3">Westwood</text>
+    <text x="7347.6" y="2318.3">Freehold</text>
+    <text x="7368.8" y="2431.4">S Chadderton</text>
+    <text x="6992.2" y="2558.7">Hollinwood</text>
+    <text x="6750" y="2664.8">Failsworth</text>
+   </g>
+  </g>
+  <g font-size="75">
+   <text x="6007.6" y="2774.4">Newton Heath<tspan x="6007.6" y="2868.1">and Moston</tspan></text>
+   <text x="4948.8" y="2738.1">Monsall</text>
+   <g text-anchor="middle">
+    <text font-family="DejaVu Sans, sans-serif" x="5457.46" y="2664.4">Central<tspan x="5457.46" y="2758.1">Park</tspan></text>
+    <text x="6400.01" y="3255.7">Holt Town</text>
+    <text x="6599.39" y="3416.3">Etihad Campus</text>
+   </g>
+   <g text-anchor="end">
+    <text x="7277.26" y="3320.1">Velopark</text>
+    <text x="7025.2" y="3133.9">Clayton Hall</text>
+    <text x="7176.5" y="3048.7">Edge Ln</text>
+    <text x="7344.2" y="2963.5">Cemetery Road</text>
+    <text x="7499.8" y="2857.4">Droylsden</text>
+    <text x="7676.6" y="2769">Audenshaw</text>
+    <text x="7836.4" y="2685.5">Ashton Moss</text>
+    <text x="7888.3" y="2571.1">Ashton West</text>
+   </g>
+   <text font-weight="bold" text-anchor="middle" x="7917.1" y="2253.6">Ashton-under-Lyne</text>
+  </g>
+  <g font-size="100" text-anchor="end">
+   <text font-family="DejaVu Sans,sans-serif" x="8658.1" y="1643.2">Greenfield</text>
+   <text font-family="DejaVu Sans,sans-serif" x="8653.1" y="1870.7">Mossley</text>
+   <text font-family="DejaVu Sans, sans-serif" x="8663.1" y="2088.2">Stalybridge</text>
+  </g>
+  <g font-size="75">
+   <text text-anchor="end" x="6229.4" y="3420.1">Ashburys</text>
+   <text text-anchor="middle" x="6571.68" y="3614.7">Gorton</text>
+   <g text-anchor="end">
+    <text x="7012" y="3627.9">Fairfield</text>
+    <text x="7450.9" y="3414.8">Guide Bridge</text>
+    <text transform="matrix(.8862 .4633 -.4633 .8862 0 0)" x="8920" y="-201.53">Hyde North</text>
+   </g>
+   <text x="7020" y="3900.9">Brinnington</text>
+   <text text-anchor="end" x="6278.9" y="3685.3">Belle Vue</text>
+   <text text-anchor="end" x="6496.39" y="3796.24">Ryder Brow</text>
+   <text transform="matrix(.86603 .5 -.5 .86603 0 0)" x="7838.4" y="152.3">Reddish<tspan x="7838.4" y="214.8">South</tspan></text>
+   <text text-anchor="end" transform="matrix(.4633 -.8862 .8862 .4633 0 0)" x="-357.75" y="8339.36">Bredbury</text>
+   <text text-anchor="middle" x="7657.9" y="4656.3">Rose Hill</text>
+   <text text-anchor="end" x="6741.3" y="5641.3">Bramhall</text>
+   <text x="7743.24" y="5491.3">Middlewood</text>
+   <text x="7276.96" y="5229.5">Hazel Grove</text>
+   <text x="6917.59" y="5041.3">Woodsmoor</text>
+   <text x="6715.77" y="4915.1">Davenport</text>
+   <text transform="matrix(.8862 .4633 -.4633 .8862 0 0)" x="8596.77" y="51.72">Woodley</text>
+   <text transform="matrix(.8862 .4633 -.4633 .8862 0 0)" x="8523.15" y="-107.35">Hyde<tspan x="8523.15" y="-44.85">Central</tspan></text>
+   <text x="7664.8" y="3526.2">Flowery Field</text>
+   <text x="7845.1" y="3623.4">Newton for Hyde</text>
+   <text x="8034.3" y="3740.1">Godley</text>
+   <text x="8226.9" y="3833.8">Hattersley</text>
+   <text x="8419.6" y="3934.5">Broadbottom</text>
+   <text x="8587.6" y="4030">Dinting</text>
+   <text text-anchor="middle" x="8668.38" y="4375.9">Glossop</text>
+   <text x="8924.7" y="4169.6">Hadfield</text>
+  </g>
+  <g font-size="100">
+   <text x="2330.6" y="6648.6">Trafford Park (under construction)</text>
+   <text x="2322.2" y="6142">Altrincham - Bury</text>
+   <text x="2322.2" y="6242">Altrincham - Picadilly</text>
+   <text x="2322.2" y="6342">Ashton-under-Lyne - Eccles</text>
+   <text x="2322.2" y="6442">Bury - Picadilly</text>
+   <text x="4559.7" y="6104.5">E Didsbury - Rochdale Town Ctr</text>
+   <text x="4559.7" y="6204.5">Manchester Airport - Victoria</text>
+   <text x="4559.7" y="6304.5">MediaCityUK - Ashton-under-Lyne</text>
+   <text x="4559.7" y="6424.5">E Didsbury - Shaw and Crompton</text>
+   <g text-anchor="middle">
+    <text x="1115.9" y="4081.6">Flixton</text>
+    <text x="1493.4" y="4374.1">Chassen Rd</text>
+    <text x="1885.9" y="4099.1">Urmston</text>
+    <text x="2245.9" y="4334.1">Humphrey Pk</text>
+   </g>
+   <text text-anchor="end" x="2560.8" y="3973.5">Trafford<tspan x="2560.8" y="4098.5">Pk</tspan></text>
+  </g>
+  <g font-size="75">
+   <text x="7727.64" y="4260.6">Romiley</text>
+   <text x="8096.37" y="4461.4">Marple</text>
+   <text x="8369.1" y="4598.3">Strines</text>
+  </g>
+  <text font-size="100" x="851.8" y="6158.6">NR (irregular)</text>
+  <g font-size="75" font-style="italic">
+   <text text-anchor="end" x="3162.42" y="3764.98">Wharfside</text>
+   <text text-anchor="end" x="2941.5" y="3859.1">Imp. War Museum</text>
+   <text text-anchor="middle" x="2081.51" y="3860.9">Village</text>
+   <g text-anchor="end">
+    <text x="1915.2" y="3777.8">Parkway</text>
+    <text x="1731.4" y="3925.4">EventCity</text>
+    <text x="1304.6" y="3966.9">Trafford Ctr</text>
+   </g>
+  </g>
+  <text font-size="100" x="1140.3" y="3004.3">Patricroft</text>
+  <g font-size="75" text-anchor="end">
+   <text transform="translate(-51.36 -8.41)" x="7266.73" y="3764.73">Denton</text>
+   <text x="5897" y="3609.3">Ardwick</text>
+   <text x="2781.78" y="3705.81">Salford Quays</text>
+   <text transform="matrix(.70711 -.70711 .70711 .70711 -784.17 5841.5)" x="6913.52" y="3866.84">Reddish North</text>
+  </g>
+ </g>
+</svg>

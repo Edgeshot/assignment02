@@ -1,0 +1,21 @@
+/* Stylesheet for index.php - Manchester - assignment01 */
+
+/*Container for Layout*/
+
+.home {
+	display: grid;
+	grid-template-columns: repeat(2, 1fr);
+	grid-template-rows: 1fr;
+	grid-column-gap: 10px;
+	grid-row-gap: 5px;
+	height: auto;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+
+.home1, .home2 {
+	border: 2px solid #f6d887;
+	padding: 10px;
+	margin-bottom: 5px;
+	background-color: #a9c0c7;
+}
